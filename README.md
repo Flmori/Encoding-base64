@@ -1,7 +1,10 @@
 # Encoding Base64 - Tugas Kuliah
 
-**Nama:** Bintang Putra Nagari  
-**NIM:** 23550010  
+**Nama Kelompok:** 
+Bintang Putra Nagari  (23550010)
+Amelia Tiani (23550014)
+Nurisa eka putri (23550036)
+
 **Repository:** [https://github.com/Flmori/Encoding-base64.git](https://github.com/Flmori/Encoding-base64.git)
 
 ## Perbandingan Implementasi Autentikasi
